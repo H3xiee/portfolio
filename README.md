@@ -28,7 +28,7 @@ This portfolio showcases my:
 
 ## Live Website
 
-https://krishikaChellappandiyan.github.io/portfolio/
+https://h3xiee.github.io/portfolio/
 
 ## Author
 
