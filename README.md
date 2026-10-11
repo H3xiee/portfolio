@@ -35,4 +35,4 @@ https://h3xiee.github.io/portfolio/
 Krishika Chellappandian
 
 GitHub:
-https://github.com/krishikaChellappandiyan
+https://github.com/H3xiee
